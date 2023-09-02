@@ -35,5 +35,5 @@ Task Tracker
 - Project link: https://github.com/SeunAkindele/task-tracker
 
 # Acknowledgments
-- I appreciate Loopscribe for giving me the priviledge to build this web application, I have learnt so much.      
+- I appreciate Loopscribe for giving me the privilege to build this web application, I have learnt so much.      
 - I am also grateful to Google, w3School and chatGPT which I utilized in my research during the course of building this project.
