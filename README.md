@@ -2,8 +2,8 @@
 Task Tracker
 
 # Purpose of project
--The project is a task tracker web application which allows users to manage their tasks
--Task Tracker helps users to add, update, and delete tasks, and toggle reminders for their tasks
+-The project is a task tracker web application which allows users to manage their tasks  
+-Task Tracker helps users to add, update, and delete tasks, and toggle reminders for their tasks  
 -Task Tracker will help users to track and complete their tasks successfully
 
 # Insntallation
