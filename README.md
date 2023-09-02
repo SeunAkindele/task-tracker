@@ -2,9 +2,12 @@
 Task Tracker
 
 # Purpose of project
-- The project is a web application which allows users to track and manage their tasks  
+- This project is a web application which allows users to track and manage their tasks  
 - Task Tracker helps users to add, update, and delete tasks, and toggle reminders for their tasks  
 - It will help users to track and complete their tasks successfully without having to worry about ommiting or forgeting an important task
+
+# Tools
+- react.js
 
 # Installation
 - To install the application run git clone https://github.com/SeunAkindele/task-tracker.git in your terminal  
